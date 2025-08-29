@@ -1015,9 +1015,6 @@ const ContactPage = () => {
                     <h3 className="font-bold text-lg text-gray-900 mb-2">
                       Endereço
                     </h3>
-                    <p className="text-gray-600 text-lg leading-relaxed">
-                      Av. Daniel José de Carvalho, 353
-                      <br />
                       Conceição - Diadema, SP
                       <br />
                       CEP: 01234-567
