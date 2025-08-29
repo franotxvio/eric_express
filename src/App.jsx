@@ -1015,6 +1015,7 @@ const ContactPage = () => {
                     <h3 className="font-bold text-lg text-gray-900 mb-2">
                       Endereço
                     </h3>
+                    <p className="text-gray-700 leading-relaxed">
                       Conceição - Diadema, SP
                       <br />
                       CEP: 01234-567
@@ -1022,7 +1023,7 @@ const ContactPage = () => {
                   </div>
                 </div>
               </Card>
-
+              
               <Card className="p-6 hover:shadow-lg transition-all duration-300 border-0 shadow-md bg-gradient-to-br from-white to-purple-50/30">
                 <div className="flex items-start space-x-4">
                   <div className="w-12 h-12 bg-gradient-to-br from-blue-500 to-blue-600 rounded-xl flex items-center justify-center">
